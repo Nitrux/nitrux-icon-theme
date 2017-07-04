@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="nvidia.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
+     id="namedview26"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="8"
+     inkscape:cx="8.2763608"
+     inkscape:cy="0.90126657"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4157" />
+    <sodipodi:guide
+       position="0,22"
+       orientation="22,0"
+       id="guide4163" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,22"
+       id="guide4165" />
+    <sodipodi:guide
+       position="22,0"
+       orientation="-22,0"
+       id="guide4167" />
+    <sodipodi:guide
+       position="22,22"
+       orientation="0,-22"
+       id="guide4169" />
+    <sodipodi:guide
+       position="3,19"
+       orientation="16,0"
+       id="guide4171" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,16"
+       id="guide4173" />
+    <sodipodi:guide
+       position="19,3"
+       orientation="-16,0"
+       id="guide4175" />
+    <sodipodi:guide
+       position="19,19"
+       orientation="0,-16"
+       id="guide4177" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     style="fill:#424854;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 2 3 L 2 9.6972656 C 2 9.6972656 5.3435623 6.3547497 9.25 6.0039062 C 9.3359999 5.9977963 9.414 6.0059463 9.5 6.0039062 C 9.670431 5.9980856 9.8342076 6.0083222 10 6.0136719 L 10 3 L 2 3 z M 10 6.0136719 L 10 6.9726562 C 12.935103 7.1620329 14.875 9.7597656 14.875 9.7597656 C 14.875 9.7597656 12.566999 13.007812 10.125 13.007812 C 10.081697 13.007812 10.042425 12.993948 10 12.990234 L 10 13.830078 C 10.021972 13.830326 10.040321 13.835937 10.0625 13.835938 C 13.548498 13.835938 16.875 9.6972656 16.875 9.6972656 C 16.875 9.6972656 14.186435 6.1487558 10 6.0136719 z M 10 13.830078 C 9.7366615 13.827103 9.4844391 13.81097 9.25 13.771484 C 6.2500018 13.225486 5.4375 10.078125 5.4375 10.078125 C 5.4375 10.078125 6.8560014 8.4306976 9.25 8.1699219 C 9.4339998 8.1515859 9.6205001 8.1075087 9.8125 8.1054688 C 9.878296 8.1054688 9.9358708 8.1197836 10 8.1230469 L 10 6.9726562 C 9.8357945 6.9620615 9.6702819 6.9535874 9.5 6.9589844 C 9.4120001 6.9630644 9.336 6.9528744 9.25 6.9589844 C 5.7414802 7.2637976 4 9.9511719 4 9.9511719 C 4 9.9511719 5.3425032 14.410679 9.3125 14.917969 C 9.5054878 14.939419 9.7318781 14.982369 9.9375 14.980469 C 9.9590492 14.980469 9.9785287 14.976717 10 14.976562 L 10 13.830078 z M 10 14.976562 L 10 16 C 12.853998 16 17.836002 14.472841 20 12.625 C 19.682001 12.299031 18.188499 11.532243 17.8125 11.224609 C 15.555592 13.209934 13.210803 14.953432 10 14.976562 z M 10 16 C 9.7761944 16 9.5277538 15.954287 9.3125 15.935547 C 3.9025043 15.416034 2 9.6972656 2 9.6972656 L 2 19 L 10 19 L 10 16 z M 10 8.1230469 L 10 9.4160156 C 10.595543 9.7244016 10.894327 10.302431 11.4375 11.224609 L 13.125 9.7597656 C 13.125 9.7597656 11.945634 8.2220512 10 8.1230469 z M 10 9.4160156 C 9.7929689 9.3088102 9.5523276 9.2316455 9.25 9.1875 C 9.0920001 9.16916 8.9605 9.171197 8.8125 9.1875 C 7.7825009 9.3158505 7 10.207031 7 10.207031 C 7 10.207031 7.5560012 12.235773 9.25 12.816406 C 9.4763223 12.886802 9.7308753 12.966675 10 12.990234 L 10 9.4160156 z M 13.763672 9.7011719 L 13.763672 9.7363281 L 13.833984 9.7363281 L 13.833984 9.7011719 L 13.763672 9.7011719 z "
+     id="path3022" />
+</svg>

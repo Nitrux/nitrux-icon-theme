@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   viewBox="0 0 22 22"
+   height="22"
+   style="enable-background:new"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="weather-clouds-night.svg">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
+     id="namedview8"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="29.5"
+     inkscape:cx="4.2936965"
+     inkscape:cy="10.974042"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4139"
+       originx="3"
+       originy="3" />
+    <sodipodi:guide
+       position="0,22"
+       orientation="22,0"
+       id="guide4153" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,22"
+       id="guide4155" />
+    <sodipodi:guide
+       position="22,0"
+       orientation="-22,0"
+       id="guide4157" />
+    <sodipodi:guide
+       position="22,22"
+       orientation="0,-22"
+       id="guide4159" />
+    <sodipodi:guide
+       position="3,19"
+       orientation="16,0"
+       id="guide4161" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,16"
+       id="guide4163" />
+    <sodipodi:guide
+       position="19,3"
+       orientation="-16,0"
+       id="guide4165" />
+    <sodipodi:guide
+       position="19,19"
+       orientation="0,-16"
+       id="guide4167" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     style="opacity:1;fill:#424854;fill-opacity:1;stroke:none;stroke-width:3.56737041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 11,3 c -4.418278,0 -8,3.581722 -8,8 0.00378,0.675205 0.093036,1.347214 0.265625,2 H 4.2988281 C 4.1029409,12.351311 4.0022814,11.677616 4,11 4.0010525,7.2918204 6.8937134,4.227844 10.595703,4.0136719 10.207764,4.9617926 10.005533,5.9755983 10,7 c 0.004,3.94914 2.889035,7.304551 6.792969,7.900391 C 15.496904,16.831904 13.326044,17.993453 11,18 v 1 c 2.854172,-0.0048 5.489629,-1.529759 6.916016,-4.001953 h 0.0059 c 0.01782,-0.03373 0.0354,-0.06758 0.05273,-0.101563 0.09777,-0.174257 0.188983,-0.352116 0.273438,-0.533203 0.0399,-0.08461 0.07832,-0.169906 0.115234,-0.255859 0.01991,-0.04279 0.03944,-0.08577 0.05859,-0.128906 C 18.281498,13.98992 18.140809,13.997084 18,14 c -0.2225,-0.0024 -0.444758,-0.01546 -0.666016,-0.03906 l -0.002,0.0059 C 13.741723,13.622624 11.000649,10.606766 11,7 c 0.004,-1.0547844 0.24641,-2.0950173 0.708984,-3.0429688 0.08285,-0.1728904 0.172772,-0.342304 0.269532,-0.5078124 0.02871,-0.048529 0.05801,-0.09671 0.08789,-0.1445313 0.04241,-0.069768 0.08604,-0.1387893 0.13086,-0.2070313 C 11.801189,3.0351452 11.400972,3.0025011 11,3 Z m 4.5,0 C 14.863366,3.000648 14.29649,3.4030982 14.085938,4.0039062 14.057322,4.0019883 14.028671,4.000686 14,4 c -1.104569,0 -2,0.895431 -2,2 0,1.104569 0.895431,2 2,2 h 5 C 19.552285,8 20,7.552285 20,7 20,6.447715 19.552285,6 19,6 h -0.08789 C 18.969601,5.839538 18.999324,5.67045 19,5.5 19,4.671573 18.328427,4 17.5,4 17.310752,3.999974 17.123207,4.0357587 16.947266,4.1054688 16.769329,3.4527767 16.176512,2.999964 15.5,3 Z M 5.5,14 C 4.8633658,14.000648 4.2964909,14.403098 4.0859375,15.003906 4.057323,15.001988 4.0286705,15.000686 4,15 c -1.1045695,0 -2,0.895431 -2,2 0,1.104569 0.8954305,2 2,2 h 5 c 0.552285,0 1,-0.447715 1,-1 0,-0.552285 -0.447715,-1 -1,-1 H 8.9121094 C 8.969602,16.839538 8.9993244,16.67045 9,16.5 9,15.671573 8.3284271,15 7.5,15 7.3107516,14.999974 7.1232074,15.035759 6.9472656,15.105469 6.7693289,14.452777 6.1765123,13.999964 5.5,14 Z"
+     id="path4179"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccsssssccccccccsssssccccc" />
+</svg>

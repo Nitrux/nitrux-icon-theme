@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   viewBox="0 0 24 24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   sodipodi:docname="spotify-client.svg">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1024"
+     id="namedview26"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     borderlayer="true"
+     inkscape:zoom="21.454546"
+     inkscape:cx="2.1496252"
+     inkscape:cy="15.349575"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4157"
+       originx="1"
+       originy="1" />
+    <sodipodi:guide
+       position="1,23"
+       orientation="22,0"
+       id="guide4163" />
+    <sodipodi:guide
+       position="1,1"
+       orientation="0,22"
+       id="guide4165" />
+    <sodipodi:guide
+       position="23,1"
+       orientation="-22,0"
+       id="guide4167" />
+    <sodipodi:guide
+       position="23,23"
+       orientation="0,-22"
+       id="guide4169" />
+    <sodipodi:guide
+       position="4,20"
+       orientation="16,0"
+       id="guide4171" />
+    <sodipodi:guide
+       position="4,4"
+       orientation="0,16"
+       id="guide4173" />
+    <sodipodi:guide
+       position="20,4"
+       orientation="-16,0"
+       id="guide4175" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-16"
+       id="guide4177" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <path
+     id="rect31"
+     d="m 12,3.9999998 c -4.4319998,0 -7.9999998,3.5679999 -7.9999998,8.0000002 0,4.432 3.568,8 7.9999998,8 4.432,0 8,-3.568 8,-8 C 20,7.5679997 16.432,3.9999998 12,3.9999998 Z M 9.8750002,8.9062499 C 12.249109,8.8358519 15.08711,9.3645657 17,10.65625 c 0.305873,0.20745 0.39363,0.630857 0.1875,0.9375 -0.206091,0.305957 -0.601646,0.393508 -0.90625,0.1875 C 14.064222,10.284439 10.260178,9.9609286 8.0312502,10.5 c -0.359793,0.0862 -0.726902,-0.141609 -0.8125,-0.5000001 -0.087,-0.3577946 0.141568,-0.6949694 0.5,-0.78125 0.640261,-0.1546742 1.36488,-0.2890337 2.15625,-0.3125 z M 10.03125,11.40625 c 2.108486,-0.03873 4.316352,0.547596 5.90625,1.65625 0.251751,0.17633 0.299287,0.498138 0.125,0.75 -0.17701,0.251702 -0.498819,0.361756 -0.75,0.1875 -1.845634,-1.289634 -4.790199,-1.836452 -7.0937498,-1.28125 -0.298965,0.07268 -0.583556,-0.107283 -0.65625,-0.40625 -0.07201,-0.298924 0.108041,-0.584888 0.40625,-0.65625 0.658237,-0.158747 1.359671,-0.237102 2.0624998,-0.25 z m 0.0625,2.3125 c 1.894675,-0.02308 3.516471,0.463532 4.875,1.40625 0.202763,0.138692 0.232447,0.390993 0.09375,0.59375 -0.140693,0.201951 -0.39311,0.264929 -0.59375,0.125 -1.613331,-1.119229 -3.737893,-1.48482 -6.2499998,-1.0625 -0.241793,0.03984 -0.460173,-0.132532 -0.5,-0.375 -0.04052,-0.241831 0.132489,-0.459539 0.375,-0.5 0.687125,-0.115788 1.368441,-0.179811 1.9999998,-0.1875 z"
+     style="fill:#424854;fill-opacity:1;fill-rule:evenodd"
+     inkscape:connector-curvature="0" />
+</svg>

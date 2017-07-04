@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91+devel r"
+   viewBox="0 0 24 24"
+   sodipodi:docname="weather-fog.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clipPath6">
+      <rect
+         id="rect8"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath10">
+      <rect
+         id="rect12"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath14">
+      <rect
+         id="rect16"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath18">
+      <rect
+         id="rect20"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath22">
+      <rect
+         id="rect24"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath26">
+      <rect
+         id="rect28"
+         style="fill:#ffff00"
+         height="208.571"
+         y="1580.934"
+         x="-830"
+         width="477.14301" />
+    </clipPath>
+    <clipPath
+       id="clipPath6-8">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect8-8" />
+    </clipPath>
+    <clipPath
+       id="clipPath10-3">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect12-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath14-9">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect16-4" />
+    </clipPath>
+    <clipPath
+       id="clipPath18-4">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect20-9" />
+    </clipPath>
+    <clipPath
+       id="clipPath22-5">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect24-5" />
+    </clipPath>
+    <clipPath
+       id="clipPath26-2">
+      <rect
+         width="477.14301"
+         x="-830"
+         y="1580.934"
+         height="208.571"
+         style="fill:#ffff00"
+         id="rect28-7" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="17.788374"
+     inkscape:cx="-0.22017621"
+     inkscape:cy="13.215824"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="957"
+     inkscape:window-x="-4"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     showguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4120"
+       originx="1"
+       originy="0.99998262" />
+    <sodipodi:guide
+       position="3,21"
+       orientation="18,0"
+       id="guide4126" />
+    <sodipodi:guide
+       position="3,3"
+       orientation="0,18"
+       id="guide4128" />
+    <sodipodi:guide
+       position="21,3"
+       orientation="-18,0"
+       id="guide4130" />
+    <sodipodi:guide
+       position="21,21"
+       orientation="0,-18"
+       id="guide4132" />
+    <sodipodi:guide
+       position="4,20"
+       orientation="16,0"
+       id="guide4134" />
+    <sodipodi:guide
+       position="4,4"
+       orientation="0,16"
+       id="guide4136" />
+    <sodipodi:guide
+       position="20,4"
+       orientation="-16,0"
+       id="guide4138" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-16"
+       id="guide4140" />
+    <sodipodi:guide
+       position="20,14"
+       orientation="-6,0"
+       id="guide4199" />
+    <sodipodi:guide
+       position="20,20"
+       orientation="0,-6.0000172"
+       id="guide4201" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1,-1029.3622)">
+    <path
+       style="opacity:1;fill:#424854;fill-opacity:1;stroke:none;stroke-width:3.56737041px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 9.5,3 C 7.2811689,3 5.4479648,4.6097531 5.078125,6.7226562 3.8792744,7.4910319 3.1000206,8.7950826 3.0195312,10.257812 1.7323406,10.706938 0.71815116,11.715382 0.26171875,13 H 1.3457031 c 0.362355,-0.7611 0.9872225,-1.365855 1.7597657,-1.703125 0.2988002,-0.130777 0.6141288,-0.220278 0.9375,-0.263672 C 4.0150645,10.856825 4.0006998,10.67857 4,10.5 c 1.634e-4,-0.14807 0.014806,-0.293052 0.033203,-0.4375 0.00124,-0.01238 0.00254,-0.02475 0.00391,-0.03711 H 4.035163 C 4.1448846,9.2309273 4.5253277,8.505716 5.0996094,7.9628906 5.1902056,7.8774575 5.2877916,7.7997354 5.3867188,7.7246094 5.4348517,7.6879948 5.481032,7.6494612 5.53125,7.6152344 5.6834234,7.5116691 5.8406366,7.4165101 6.0078125,7.3378906 6.0180683,7.1166978 6.0504652,6.9016171 6.0996094,6.6933594 6.1125145,6.63814 6.1348097,6.5858033 6.1503906,6.53125 6.5728577,5.0671505 7.9122953,4.0018401 9.5,4 c 0.879129,7.704e-4 1.710983,0.3349696 2.345703,0.9101562 0.08861,0.080043 0.170187,0.1673807 0.25,0.2558594 0.03212,0.035744 0.06693,0.068295 0.09766,0.1054688 0.100711,0.1213179 0.193699,0.2486769 0.277344,0.3828125 C 12.61202,5.553104 12.760698,5.4632797 12.914062,5.3847656 12.993332,5.3443216 13.077964,5.3155616 13.160156,5.28125 13.58344,5.1039704 14.035978,5.0011078 14.5,5 16.432997,5 18,6.5670034 18,8.5 17.999474,9.0283465 17.870308,9.5392482 17.646484,10.005859 17.597691,10.003111 17.548857,10.001157 17.5,10 c -1.501754,0.0011 -2.903974,0.751322 -3.738281,2 h 1.289062 c 0.503783,-0.493984 1.145102,-0.824175 1.839844,-0.947266 l -0.002,0.002 C 17.0905,11.018545 17.295016,11.000292 17.5,11 c 0.231513,-7.2e-5 0.462462,0.02283 0.689453,0.06836 1.08137,0.218788 1.996278,0.934645 2.46875,1.931641 h 0.0039 A 3.5,3.5 0 0 1 21,14.5 3.5,3.5 0 0 1 17.5,18 H 14.673828 14 v 1 h 3.5 A 4.5,4.5 0 0 0 22,14.5 4.5,4.5 0 0 0 21.736328,13 C 21.242735,11.604905 20.094784,10.541663 18.666016,10.15625 18.875967,9.6306389 18.998974,9.0721676 19,8.5 19,6.0147186 16.985281,4 14.5,4 13.885178,4.0012372 13.286265,4.1416724 12.728516,4.3828125 11.891731,3.5147981 10.734419,3.0015503 9.5,3 Z m -7,11 C 2.223,14 2,14.223 2,14.5 2,14.777 2.223,15 2.5,15 h 10 C 12.777,15 13,14.777 13,14.5 13,14.223 12.777,14 12.5,14 Z m -2,2 C 0.223,16 0,16.223 0,16.5 0,16.777 0.223,17 0.5,17 h 8 C 8.777,17 9,16.777 9,16.5 9,16.223 8.777,16 8.5,16 Z m 3,2 C 3.2230048,18 3,18.223005 3,18.5 3,18.776995 3.2230048,19 3.5,19 h 8.900391 c 0.276995,0 0.5,-0.223005 0.5,-0.5 0,-0.276995 -0.223005,-0.5 -0.5,-0.5 z"
+       transform="translate(0,1030.3622)"
+       id="path4180"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
