@@ -23,3 +23,5 @@ Install
 
 * Move the folder *Nitrux* or *Nitrux-KDE* to `/usr/share/icons` for all environments or *Nitrux* `~/.icons` for GTK based environments and *Nitrux-KDE* `~/.local/share/icons` for Plasma 5.
 * And finally select the theme in the Settings.
+
+©2012-2017 Nitrux. All rights reserved
